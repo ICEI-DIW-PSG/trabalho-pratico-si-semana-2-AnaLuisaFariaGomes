@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    gap: 30px;
+}
+
+aside {
+    width: 25%;
+    padding: 20px;
+    background-color: lightcoral;
+}
+
+.imagem-centralizada {
+    display: block;
+    margin: 50px auto 0;
+    max-width: 100%;
+}
+
+.about-me {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 20px;
+    max-width: 90%;
+    color:rgb(48, 47, 47);
+    text-align: justify;
+}
+
+main {
+    width: 75%;
+    background-color: #ffffff;
+}
+
+.box-background {
+    background-color: lightcoral;
+}
+
+.claro {
+    color:gray;
+    margin: 2px 0;
+    line-height: 1.2;
+}
+
+.descricao {
+    text-align: justify;
+    color: gray;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
