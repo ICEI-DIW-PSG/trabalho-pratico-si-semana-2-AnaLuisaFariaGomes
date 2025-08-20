@@ -1,3 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.destaque {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .container {
     display: flex;
     gap: 30px;
@@ -15,7 +24,7 @@ aside {
     max-width: 100%;
 }
 
-.about-me {
+.aside-text {
     display: block;
     text-align: center;
     margin: 0 auto;
@@ -27,7 +36,6 @@ aside {
 
 main {
     width: 75%;
-    background-color: #ffffff;
 }
 
 .box-background {
@@ -47,4 +55,8 @@ main {
 
 h1 {
   margin-bottom: 10px;
+}
+
+.curso{
+    margin-bottom: 10px;
 }
