@@ -3,8 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Ana Luísa Faria Gomes
+- Matricula: 899314
 
 ## Print da tela da página criada (Curriculum Vitae)
 
