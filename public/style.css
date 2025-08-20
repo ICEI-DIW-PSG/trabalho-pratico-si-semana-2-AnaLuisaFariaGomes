@@ -7,12 +7,19 @@ body {
     text-decoration: underline;
 }
 
+.destaque-aside {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .container {
     display: flex;
-    gap: 30px;
+    /*gap: 30px;*/
 }
 
 aside {
+    border-right: solid gray;
     width: 25%;
     padding: 20px;
     background-color: lightcoral;
@@ -32,6 +39,15 @@ aside {
     max-width: 90%;
     color:rgb(48, 47, 47);
     text-align: justify;
+}
+
+.main-color{
+    padding: 20px;
+    background-color: lightcoral;
+}
+
+.conteudo {
+    padding: 20px;
 }
 
 main {
