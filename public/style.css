@@ -3,11 +3,13 @@ body {
 }
 
 .destaque {
+    background-color: salmon;
     font-weight: bold;
     text-decoration: underline;
 }
 
 .destaque-aside {
+    background-color: salmon;
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
