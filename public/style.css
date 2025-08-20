@@ -7,6 +7,12 @@ body {
     text-decoration: underline;
 }
 
+.destaque-aside {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .container {
     display: flex;
     /*gap: 30px;*/
